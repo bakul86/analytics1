@@ -1,5 +1,6 @@
 x6
-set.seed(1234)
+set.seed(12346)
+?set.seed
 (x6=sample(1:50))
 sort(x6)
 sort(x6,decreasing = TRUE)
